@@ -1,0 +1,287 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(../images/background.png);
+  font-family: 'Montserrat', sans-serif;
+  background-size: cover;
+}
+.wrap1, .wrap2{
+    margin: 15px 400px;
+}
+.wrap1 {
+  height: 800px;
+}
+
+.wrap1 .logo {
+  float: left;
+}
+
+.wrap1 .header a {
+  text-decoration: none;
+  color: white;
+  padding-left: 20px;
+}
+
+.wrap1 .header {
+  padding-left: 15px;
+  float: right;
+}
+
+.h1 h1 {
+  position: absolute;
+  left: 450px;
+  top: 200px;
+  color: white;
+  font-size: 60px;
+}
+
+.wrap1 .h4 h4 {
+  color: #bbd8ff;
+  position: absolute;
+  text-align: center;
+  left: 450px;
+  top: 280px;
+  width: 650px;
+}
+
+.wrap1 .button {
+  position: absolute;
+  left: 650px;
+  top: 400px;
+}
+
+.wrap2 .freeresources img {
+  text-align: center;
+  height: 170px;
+  width: 800px;
+}
+
+.wrap2 .macbook {
+  position: absolute;
+  left: 800px;
+  top: 900px;
+}
+
+.wrap2 .paragraph1 {
+  width: 500px;
+  color: #5a5a5a;
+  padding-top: 15px;
+}
+
+.wrap2 ul {
+  padding-top: 30px;
+  list-style-type: none;
+}
+
+.wrap2 li {
+  padding-top: 15px;
+  color: #93aac9;
+}
+
+.wrap2 .readmorebtn {
+  padding-top: 50px;
+}
+
+.wrap3{
+  margin: 0px 15px 0px 15px;
+  padding-top: 100px;
+  background-color: #f7f9fb;
+}
+
+.wrap3 table .head{
+  color: #25365d;
+  font-style: oblique;
+}
+.wrap3 table{
+  margin: 0px 400px;
+  padding-bottom: 100px;
+
+}
+.wrap3 td{
+  padding: 10px;
+}
+.wrap3 .text{
+  width: 250px;
+}
+
+.wrap3 .img{
+  vertical-align: top;
+}
+
+.wrap3 .text{
+  font-size: 10px;
+}
+
+.wrap4 {
+  list-style-type: none;
+  height: 600px;
+}
+
+.wrap4 .macbook1{
+  position: absolute;
+  left: 500px;
+}
+.wrap4 .macbook2{
+  position: absolute;
+  left:500px;
+  padding-bottom: 100px;
+}
+
+.wrap4 h1{
+  text-align: center;
+  color: #25365d;
+  padding: 50px 0px;
+  font-size: 50px;
+}
+
+.wrap4 .feature1 h3, .feature2 h3, .feature3 h3, .feature4 h3 {
+  color: #25365d;
+  padding: 15px;
+  font-size: 20px;
+}
+
+.wrap4 .feature1{
+  position: absolute;
+  left: 300px;
+
+}
+
+.wrap4 .feature2{
+  position: absolute;
+  left: 1090px;
+}
+
+.wrap4 .feature3{
+  position: absolute;
+  left: 300px;
+  top: 2130px;
+}
+
+.wrap4 .feature4{
+  position: absolute;
+  left: 1090px;
+  top: 2130px;
+}
+
+.wrap4 .feature1, .feature2, .feature3, .feature4{
+  font-size: 13px;
+}
+
+.wrap5{
+  margin: 0px 15px 0px 15px;
+  padding-top: 100px;
+  background-color: #f7f9fb;
+  height: 800px;
+  color: #25365d;
+}
+.wrap5 h3{
+  padding-top: 20px;
+}
+
+.wrap5 h1{
+  text-align: center;
+  font-size: 50px;
+}
+
+.wrap5 h4{
+  text-align: center;
+  font-size: 13px;
+}
+
+.wrap5 .basic, .proffesional, .proffesionalPlus{
+  height: 250px;
+  width: 250px;
+  background-color: white;
+  text-align: center;
+}
+
+.wrap5 .basic{
+  position: absolute;
+  left: 350px;
+  top: 2700px;
+}
+
+.wrap5 .proffesional{
+  position: absolute;
+  left: 700px;
+  top: 2700px;
+}
+
+.wrap5 .proffesionalPlus{
+  position: absolute;
+  left: 1040px;
+  top: 2700px;
+}
+
+.wrap5 .basic .amount, .proffesional .amount, .proffesionalPlus .amount{
+  position: absolute;
+  top: 90px;
+  left: 100px;
+}
+
+.wrap5 .dollar{
+  position: absolute;
+  top: 100px;
+  left: 80px;
+}
+
+.wrap5 .month{
+  position: absolute;
+  top: 120px;
+  left: 180px;
+}
+
+.wrap5 .lorem{
+  padding-top: 130px;
+}
+
+.wrap5 .call{
+text-align: center;
+padding-top: 400px;
+}
+
+.wrap5 .questions{
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.wrap5 h4{
+  text-align: center;
+}
+
+.wrap5 .telephone {
+  position: absolute;
+  left: 900px;
+  padding-top: 50px;
+}
+
+.wrap5 .mail{
+  position: absolute;
+  left: 550px;
+  padding-top: 50px;
+}
+
+.wrap6{
+  color: #25365d;
+  margin: 0px 250px 0px 250px;
+}
+
+.wrap6 h1{
+  padding-top: 150px;
+  padding-bottom: 100px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.wrap6 h4{
+  text-align: center;
+  padding-bottom: 150px;
+}
+
+.wrap6 .downloadbtn{
+  text-align: center;
+  padding-bottom: 500px;
+}
